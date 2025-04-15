@@ -1,1 +1,0 @@
-{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/main.js"],"sourcesContent":["var $2b6e161c9edcf319$exports = {};\nconsole.log(\"Hello,world\");\n\n\n//# sourceMappingURL=library-practice.7c8879d8.js.map\n","console.log(\"Hello,world\");"],"names":["console","log"],"version":3,"file":"library-practice.7c8879d8.js.map"}
